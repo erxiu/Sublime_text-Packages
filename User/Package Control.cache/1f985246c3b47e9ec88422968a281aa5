@@ -1,0 +1,11 @@
+{
+    "includes": [
+	"https://raw.githubusercontent.com/wuub/requirementstxt/master/packages.json",
+	"https://raw.githubusercontent.com/wuub/SublimeREPL/master/packages.json"
+
+     ], 
+    "packages": [
+    ],
+    "schema_version": "3.0.0"
+}
+

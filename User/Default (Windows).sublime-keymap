@@ -1,0 +1,5 @@
+[
+    { "keys": ["ctrl+m"], "command": "insert_date", "args": {"format": "%H:%M:%S"} },
+    {"keys": ["alt+m"], "command":"markdown_preview", "args": { "target":"browser"} },
+    { "keys": ["ctrl+shift+r"], "command": "rename_file", "args": { "paths": ["$file"] } }
+]

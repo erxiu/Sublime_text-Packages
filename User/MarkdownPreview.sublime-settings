@@ -1,0 +1,10 @@
+{
+    "enable_autoreload": true,
+    "enable_mathjax": true,
+
+    "js": [
+    "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_CHTML",
+    // "http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML",
+    // "res:../Packages/MathJax/unpacked/math_config.js",
+]
+}
